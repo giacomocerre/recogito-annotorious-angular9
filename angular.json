@@ -28,9 +28,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/@recogito/annotorious-openseadragon/dist/annotorious.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/openseadragon/build/openseadragon/openseadragon.min.js",
+              "node_modules/@recogito/annotorious-openseadragon/dist/openseadragon-annotorious.min.js"
+            ]
           },
           "configurations": {
             "production": {
