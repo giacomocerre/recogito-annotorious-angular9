@@ -1,6 +1,6 @@
 # Initialize recogito/openseadragon-annotorious for Angular 9
 
-This project is adn example for the initialization of openseadragon-annotorious in Angular 9 and it was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+This project is an example for the initialization of openseadragon-annotorious in Angular 9 and it was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Initialization
 
